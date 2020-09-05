@@ -11,6 +11,7 @@ namespace introAGit
         static void Main(string[] args)
         {
             Console.WriteLine("Projet suivi avec Git");
+            Console.WriteLine("Project followed on behalf of Git");
         }
     }
 }
